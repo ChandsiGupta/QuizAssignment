@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizAssignment</string>
+    <string name="quiz_app">Welcome to the quiz application</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="your_score">Your Score</string>
+    <string name="questions">Questions</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="next_question">Next </string>
+    <string name="previous_question">Previous </string>
+    <string name="questions_count">Questions Count </string>
+    <string name="quit">Quit</string>
+    <string name="enter_your_email">Please enter your email</string>
+    <string name="enter_your_name">Please enter your name</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="restart">Restart</string>
+    <string name="developers">Developers</string>
+    <string name="back">Back</string>
+    <string name="question">question</string>
+</resources>

@@ -1,0 +1,63 @@
+[{
+  "qnumber" : "1",
+  "question":"Who is current Indian ODI cricket team captain?",
+  "answer":"Virat Kohli",
+  "options": [
+    "MS Dhoni",
+    "Rohit Sharma",
+    "Rahul Dravid",
+    "Virat Kohli"
+  ]
+},
+  {
+    "qnumber" : "2",
+    "question":"Which is the capital of India?",
+    "answer":"New Delhi",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Gwalior",
+      "Nagpur"
+    ]
+  },{
+  "qnumber" : "3",
+  "question":"Which is the capital of USA?",
+  "answer":"New York",
+  "options": [
+    "Texas",
+    "Florida",
+    "Ohio",
+    "New York"
+  ]
+},{
+  "qnumber" : "4",
+  "question":"Which is the capital of France?",
+  "answer":"Huston Rocket",
+  "options": [
+    "New York Bulls",
+    "Los Angeles Kings",
+    "Golden State Warriros",
+    "Huston Rocket"
+  ]
+},{
+  "qnumber" : "5",
+  "question":"Which is the capital of USA?",
+  "answer":"Huston Rocket",
+  "options": [
+    "New York Bulls",
+    "Los Angeles Kings",
+    "Golden State Warriros",
+    "Huston Rocket"
+  ]
+},{
+  "qnumber" : "6",
+  "question":"Who is current Indian ODI cricket team captain?",
+  "answer":"Virat Kohli",
+  "options": [
+    "MS Dhoni",
+    "Rohit Sharma",
+    "Rahul Dravid",
+    "Virat Kohli"
+  ]
+}
+]
